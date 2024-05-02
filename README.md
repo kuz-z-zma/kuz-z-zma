@@ -1,12 +1,24 @@
-### Hi there 👋
+Hi, 
 
-<!--
-**kuz-z-zma/kuz-z-zma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm known as kuzzzma.
 
-Here are some ideas to get you started:
+**Languages:** English & Russian
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+**Contact:** e-mail / Telegram
+
+
+### Current projects: 
+- [Paradigm](https://www.blog.private-universe.net/web-and-tech/zenphoto-theme-paradigm/) theme for Zenphoto CMS
+- Bug reporting and extending existing Zenphoto CMS plugins with options
+- [Azrael 5.8 Mod](https://www.blog.private-universe.net/series/foobar2000-azrael-mod/), config for foobar2000 Columns_UI
+
+### Interests:
+- Photography
+- [Papercraft](https://www.blog.private-universe.net/papercraft/)
+- Design & Information organization
+- Doll & Action figures collector
+  
+<!-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
