@@ -9,6 +9,7 @@ I'm known as kuzzzma.
 **Zenphoto CMS**
 - [Paradigm](https://www.blog.private-universe.net/web-and-tech/zenphoto-theme-paradigm/) - theme for Zenphoto CMS
 - [adminBranding](https://github.com/kuz-z-zma/adminBranding) - plugin for backend customization for Zenphoto CMS
+- Russian locale updates
 - Bug reporting and extending existing Zenphoto CMS plugins with options
 
 **foobar2000**
