@@ -8,9 +8,13 @@ I'm known as kuzzzma.
 ### Current projects: 
 **Zenphoto CMS**
 - [Paradigm](https://github.com/kuz-z-zma/paradigm) - theme for Zenphoto CMS
-- [adminBranding](https://github.com/kuz-z-zma/adminBranding) - plugin for backend customization for Zenphoto CMS
-- Russian locale updates
-- Bug reporting and extending existing Zenphoto CMS plugins with options
+  - [Main page](https://www.blog.private-universe.net/web-and-tech/zenphoto-theme-paradigm/): about, how-to, other info.
+  - [Demo website](https://demo.private-universe.net/) - demo website for my themes, currently uses Paradigm.
+  - [Full Changelog](https://www.blog.private-universe.net/web-and-tech/zenphoto-theme-paradigm/paradigm-changelog/) – full changelog for current and past releases.
+  - [Screenshots](https://www.blog.private-universe.net/web-and-tech/zenphoto-theme-paradigm/paradigm-screenshots/) - screenshots of different pages with various settings.
+- [adminBranding](https://github.com/kuz-z-zma/adminBranding) - plugin for backend customization for Zenphoto CMS.
+- Russian locale updates.
+- Bug reporting and extending existing Zenphoto CMS plugins with options.
 
 **foobar2000**
 - [Azrael 5.8 Mod](https://www.blog.private-universe.net/music/foobar2000-azrael-mod/), config for foobar2000 Columns_UI
