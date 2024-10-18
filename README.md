@@ -1,7 +1,7 @@
 Hi, 
 I'm known as kuzzzma.
 
-**Languages:** English & Russian
+**Languages:** English & Russian, ein bisschen Deutsch
 
 **Contact:** e-mail / Telegram
 
